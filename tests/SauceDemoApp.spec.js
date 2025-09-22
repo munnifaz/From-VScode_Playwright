@@ -3,6 +3,7 @@ test('SauceDemo E2E: login, verify products, add to cart, checkout', async ({ pa
     // 1. Login
     await page.goto('https://www.saucedemo.com/');
 
-    // this is from feature branch 
-    
+   
 });
+
+//fdgdfgdfgfdgdfgfdgfdg
